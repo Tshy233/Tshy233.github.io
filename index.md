@@ -22,17 +22,3 @@
 ### Email:2264978432@qq.com
 ### qq：2264978432
 ### 电话：15260888672
-
-
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
