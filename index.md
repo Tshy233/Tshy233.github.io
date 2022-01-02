@@ -1,5 +1,9 @@
 # 林铸的个人主页
-## Welcome to GitHub Pages
+## 基本资料
+## 学习/工作经历
+## 个人荣誉
+## 项目成果
+## 联系方式
 
 You can use the [editor on GitHub](https://github.com/Tshy233/Tshy233.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
